@@ -1,4 +1,5 @@
 💫 ABOUT ME:
+
 🔭I'm currently studying Bachelor of Engineering <br>👯I'm looking to collaborate with Data Analyst Role <br>🤝I'm looking for help with creating a Website <br>🌱I'm currently learning front end development <br>💬 Ask me about Data Science <br>⚡Not a political leader but a Good Speaker <br>
 
 
